@@ -1,4 +1,4 @@
-# Accelerating Prefilling for Long-Context Inference via Sparse PatternSharing
+# Accelerating Prefilling for Long-Context Inference via Sparse Pattern Sharing
 This repository will host the official source code for the paper: Accelerating Prefilling for Long-Context Inference via Sparse Pattern Sharing.
 
 ## Overview
